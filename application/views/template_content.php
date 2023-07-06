@@ -111,7 +111,7 @@
             </ul>
           </div>
           <div class="col-md-12 col-xs-12 text-center" style="margin:10px 0">
-            &copy 2015, FoodooF. All rights reserved.
+            &copy 2015, Josh Lee. All rights reserved.
           </div>
         </div>
       </div>
